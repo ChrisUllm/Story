@@ -1,1 +1,3 @@
-This is my third text.
+This is my third text.  
+Now I am adding some text.
+
